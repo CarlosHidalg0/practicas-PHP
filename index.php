@@ -19,6 +19,9 @@ echo "La suma es $x + $y = $z <br>";
 echo "La resta es $x - $y = $w <br>";
 echo "La multiplicacion es $x * $y = $t <br>";
 echo "La division es $x / $y = $n <br>";
+echo "La raiz cuadrada de 81 es:  "; 
+echo(sqrt(81) . "<br>");
+
 
 
 ?>
